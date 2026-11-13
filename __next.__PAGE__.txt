@@ -1,0 +1,58 @@
+1:"$Sreact.fragment"
+4:"/_next/static/chunks/0vz5c-9-1f3vv.js"
+5:"/_next/static/chunks/1jcwq3_rjknba.js"
+6:"/_next/static/chunks/398f_1uz80opz.js"
+7:"/_next/static/chunks/40gbz3w4c30fe.js"
+8:I[33499,["$4","$5","$6","$7"],"I18nProvider"]
+9:I[39392,["$4","$5","$6","$7"],"default"]
+a:I[46083,["$4","$5","$6","$7"],"default"]
+b:I[2971,["$4","$5","$6","$7"],"default"]
+c:I[39756,["$4","$5","$6","$7"],"default"]
+d:"/_next/static/chunks/02ss5z7byy6eg.js"
+e:I[16868,["$4","$5","$6","$7","$d"],"default"]
+f:I[37457,["$4","$5","$6","$7"],"default"]
+10:"/_next/static/chunks/3arwfv44d5wk_.js"
+11:I[29306,["$4","$5","$6","$7","$10"],"default"]
+12:I[13642,["$4","$5","$6","$7"],"default"]
+13:I[56540,["$4","$5","$6","$7"],"default"]
+14:I[90715,["$4","$5","$6","$7"],"default"]
+18:"/_next/static/chunks/05bu32bxbulta.js"
+19:"/_next/static/chunks/10szu2ghfy76i.js"
+1a:I[38454,["$4","$5","$6","$7","$18","$19"],"default"]
+1b:I[97367,["$4","$5","$6","$7"],"OutletBoundary"]
+1c:"$Sreact.suspense"
+1f:"ViewportBoundary"
+20:I[97367,["$4","$5","$6","$7"],"$1f"]
+21:"MetadataBoundary"
+22:I[97367,["$4","$5","$6","$7"],"$21"]
+:HL["/_next/static/chunks/0_dawdo-wj4n7.css","style"]
+2:["$","style",null,{"children":"#page-loader{display:none!important}"}]
+3:T690,{"@context":"https://schema.org","@type":"Organization","name":"iStyle Fashion Group","alternateName":"Shater Abbas Readymade Garments Trading","description":"UAE apparel group operating four retail and trading brands across Ajman and Fujairah since 2009 — wholesale garment trading, multi-department fashion showrooms and an off-price discount outlet.","telephone":"+971564947165","email":"info@istylefashion.ae","foundingDate":"2009","slogan":"Delivering Affordable Everyday Fashion Across the UAE Since 2009","areaServed":["Ajman","Fujairah","United Arab Emirates"],"department":[{"@type":"ClothingStore","name":"Shater Abbas Readymade Garments Trading","address":{"@type":"PostalAddress","streetAddress":"Al Rashidiya / Horizon Towers commercial zone","addressLocality":"Ajman","addressCountry":"AE"},"openingHours":"Mo-Su 10:00-23:00"},{"@type":"ClothingStore","name":"iStyle Fashion – Flagship Store, Ajman","address":{"@type":"PostalAddress","streetAddress":"Ground Floor, Horizon Towers, Sheikh Rashid Bin Abdul Aziz St, Al Rashidiya 1","addressLocality":"Ajman","addressCountry":"AE"},"telephone":"+971564947165","openingHours":"Mo-Su 10:00-23:00"},{"@type":"ClothingStore","name":"Company Discount Outlet","address":{"@type":"PostalAddress","streetAddress":"Sheikh Saif Bin Hamad Al Sharqi St, Anajaimat / Al Ittihad","addressLocality":"Fujairah","addressCountry":"AE"},"openingHours":"Mo-Su 10:00-00:00"},{"@type":"ClothingStore","name":"iStyle Fashion – Showroom, Fujairah","address":{"@type":"PostalAddress","streetAddress":"Sheikh Saif Bin Hamad Al Sharqi St, Anajaimat","addressLocality":"Fujairah","addressCountry":"AE"},"openingHours":"Mo-Su 10:00-23:00"}]}16:X
+17:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L1a",null,{}],[["$","script","script-0",{"src":"/_next/static/chunks/05bu32bxbulta.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/10szu2ghfy76i.js","async":true}]],["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]]}],"p":"$@1e","v":null,"s":"$16"}}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0_dawdo-wj4n7.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/0vz5c-9-1f3vv.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1jcwq3_rjknba.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/398f_1uz80opz.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/40gbz3w4c30fe.js","async":true}]],["$","html",null,{"lang":"en","dir":"ltr","suppressHydrationWarning":true,"children":["$","body",null,{"className":"_0bjUvq_variable F9WnGq_variable QHC--G_variable antialiased","children":[["$","noscript",null,{"children":"$2"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","$L8",null,{"children":[["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","main",null,{"children":["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Le",null,{"children":["$","$Lf",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/_next/static/chunks/02ss5z7byy6eg.js","async":true}]],"notFound":[["$","$L11",null,{}],[]]}]}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}]]}]]}]}]]}],"p":"$@15","v":null,"s":"$16"},"c":"$Q17"},"h":{"r":["$","$1","h",{"children":[null,["$","$L20",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f43f5e"}]]}],["$","$L22",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"iStyle Fashion Group | Fashion Stores in Ajman & Fujairah"}],["$","meta","1",{"name":"description","content":"Your trusted fashion destination in Ajman & Fujairah — from bulk textile trading to premier multi-department retail stores and budget discount outlets. iStyle Fashion Horizon Towers Ajman, Company Discount Outlet Fujairah, wholesale garments since 2009."}],["$","meta","2",{"name":"author","content":"iStyle Fashion Group"}],["$","link","3",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","4",{"name":"keywords","content":"iStyle Fashion Ajman,Shater Abbas Garments,Fashion store Horizon Towers,Clothing store Fujairah Anajaimat,readymade garments Ajman,discount outlet Fujairah,wholesale garments UAE,clothing store Al Rashidiya Ajman"}],"$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]}],null]}],"$L33"]}],"p":"$@34","v":null,"s":"$16"}},"a":"$@35","u":"$@36","b":"V6jY_g35eHA6vWPgQHpeJ"}
+37:I[27201,["$4","$5","$6","$7"],"IconMark"]
+1d:null
+23:["$","meta","5",{"property":"og:title","content":"iStyle Fashion Group | Fashion Stores in Ajman & Fujairah"}]
+24:["$","meta","6",{"property":"og:description","content":"Affordable everyday fashion across the UAE since 2009 — four brands in Ajman and Fujairah."}]
+25:["$","meta","7",{"property":"og:site_name","content":"iStyle Fashion Group"}]
+26:["$","meta","8",{"property":"og:locale","content":"en_AE"}]
+27:["$","meta","9",{"property":"og:image","content":"https://buyukofficial.github.io/og-image.jpg"}]
+28:["$","meta","10",{"property":"og:image:width","content":"1200"}]
+29:["$","meta","11",{"property":"og:image:height","content":"630"}]
+2a:["$","meta","12",{"property":"og:image:alt","content":"iStyle Fashion Group — Fashion stores in Ajman & Fujairah"}]
+2b:["$","meta","13",{"property":"og:type","content":"website"}]
+2c:["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}]
+2d:["$","meta","15",{"name":"twitter:title","content":"iStyle Fashion Group | Fashion Stores in Ajman & Fujairah"}]
+2e:["$","meta","16",{"name":"twitter:description","content":"Affordable everyday fashion across the UAE since 2009 — four brands in Ajman and Fujairah."}]
+2f:["$","meta","17",{"name":"twitter:image","content":"https://buyukofficial.github.io/og-image.jpg"}]
+30:["$","link","18",{"rel":"icon","href":"/icon.svg"}]
+31:["$","link","19",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}]
+32:["$","$L37","20",{}]
+33:["$","meta",null,{"name":"next-size-adjust","content":""}]
+16:300
+36:true
+16:C
+35:0
+15:"$undefined"
+34:"$undefined"
+1e:"$undefined"
